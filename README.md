@@ -26,7 +26,6 @@ O objetivo do projeto foi realizar:
 
 # 📂 Pipeline do Projeto
 
-```text
 CSV Dataset
     ↓
 Python + Pandas
@@ -39,9 +38,10 @@ SQL Queries
     ↓
 Power BI Dashboard
 
+---
 
-<img width="1228" height="717" alt="image" src="https://github.com/user-attachments/assets/dfb06f1b-8ffa-4aeb-9f08-7761422d9fc9" />
-<img width="874" height="494" alt="image" src="https://github.com/user-attachments/assets/e9babf8e-6940-4bb8-ba99-dede80edfa29" />
+#<img width="1228" height="717" alt="image" src="https://github.com/user-attachments/assets/dfb06f1b-8ffa-4aeb-9f08-7761422d9fc9" />
+#<img width="874" height="494" alt="image" src="https://github.com/user-attachments/assets/e9babf8e-6940-4bb8-ba99-dede80edfa29" />
 
 
 
